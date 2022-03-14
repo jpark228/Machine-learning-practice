@@ -7,4 +7,4 @@ Reference
 
 Tensorflow official document: https://www.tensorflow.org/tutorials/keras/regression?hl=ko
 
-
+최적화 (pyomo): http://www.pyomo.org/workshop-examples
